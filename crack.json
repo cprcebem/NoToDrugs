@@ -1,0 +1,9 @@
+{
+    "title":"Crack",
+    "sort":"stimulant",
+    "effect":{
+        "cocaine-effects":"all",
+        "cardiac-effects":"blood-vessels-constriction elevated-heart-rate elevated-blood-pressure heart-attack",
+        "respiratory-effects":"cough lung-bleeding"
+    }
+}
