@@ -47,4 +47,3 @@ triptamina
 -codeina
 fentanil
 2c-b
-
