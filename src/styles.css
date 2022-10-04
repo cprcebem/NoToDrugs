@@ -1,0 +1,25 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+}
+
+#popper{
+
+    padding: 50px;
+    max-width: 400px;
+    max-height: 320px;
+}
+
+#efectos{
+    padding: 20px;
+}
+
+#clas{
+    padding: 10px;
+}
+
+#tittle{
+    padding: 10px;
+}
