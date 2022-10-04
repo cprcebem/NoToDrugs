@@ -16,7 +16,7 @@ NoToDrugs no es nuestro
     git commit -m "add xxx drug"
     git push origin main
 
-- lanzamos una pull request a cprcebem *4
+[x]- lanzamos una pull request a cprcebem *4
 
 # Content
 
