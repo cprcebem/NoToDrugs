@@ -1,0 +1,7 @@
+{
+    "title": "Opio",
+    "description": "El opio es una mezcla compleja de sustancias que se extrae de las cápsulas de la adormidera.",
+    "type": "Depresora",
+    "legality": true,
+    "side effects": ["náuseas y vómitos","sudores","dolores de cabeza","vértigos","cansancio"]
+}
