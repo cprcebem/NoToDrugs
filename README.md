@@ -3,19 +3,22 @@
 Collaborative project for hacktoberfest
 
 
-# Contribución
+# Contribute
 
 NoToDrugs no es nuestro
 [x]- fork del repo
 [x]- clonamos mi fork
 	git clone https://github.com/kant003/NoToDrugs.git
-- añadimos mi contribución
+[x]- añadimos mi contribución
 
-- subimos los cambios
-    
+[x]- subimos los cambios
+    git add .
+    git commit -m "add xxx drug"
+    git push origin main
+
 - lanzamos una pull request a cprcebem *4
 
-# Contenido
+# Content
 
 Titulo
 Pequeña descripción
