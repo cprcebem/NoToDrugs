@@ -7,8 +7,9 @@ Collaborative project for hacktoberfest
 
 NoToDrugs no es nuestro
 [x]- fork del repo
+    https://github.com/cprcebem/NoToDrugs
 [x]- clonamos mi fork
-	git clone https://github.com/kant003/NoToDrugs.git
+	git clone https://github.com/XXXX/NoToDrugs.git
 [x]- añadimos mi contribución
 
 [x]- subimos los cambios
@@ -16,7 +17,7 @@ NoToDrugs no es nuestro
     git commit -m "add xxx drug"
     git push origin main
 
-- lanzamos una pull request a cprcebem *4
+[x]- lanzamos una pull request a cprcebem *4
 
 # Content
 
@@ -47,4 +48,3 @@ triptamina
 -codeina
 fentanil
 2c-b
-
