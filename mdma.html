@@ -26,17 +26,23 @@
         </script>
     </div>
     <div id="texto" style="padding-bottom: 0%;">Sanciones: </div> <br>
-    <div id="texto">Puede ser sancionado con una multa de entre 300,51€ y 30.050,61€.</div>
+    <div id="texto"> <span id="sancion"></span>
+        <script>
+            let array = ["Desde 300,51€", "<br/>Hasta 30.050,61€"]
+            document.getElementById("sancion").innerHTML = array
+            
+        </script>
+    </div>
     <div id="texto" style="padding-bottom: 0%;">Efecos adversos: </div> <br>
     <div id="texto" style="text-align: left; padding-left: 35%;"> <span id="efectos"></span>
         <script>
-            let array = ["Aumento elevado de la temperatura corporal (hipertermia)",
+            let array2 = ["Aumento elevado de la temperatura corporal (hipertermia)",
             "<br/>Deshidratación",
             "<br/>Desequilibrio de electrolitos (sodio)",
             "<br/>Presión arterial alta (hipertensión)",
             "<br/>Tensión involuntaria en las mandíbulas y rechinado involuntario de los dientes",
             "<br/>Rigidez de los músculos o articulaciones"]
-            document.getElementById("efectos").innerHTML = array
+            document.getElementById("efectos").innerHTML = array2
             
         </script>
     </div>
