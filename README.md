@@ -7,8 +7,9 @@ Collaborative project for hacktoberfest
 
 NoToDrugs no es nuestro
 [x]- fork del repo
+    https://github.com/cprcebem/NoToDrugs
 [x]- clonamos mi fork
-	git clone https://github.com/kant003/NoToDrugs.git
+	git clone https://github.com/XXXX/NoToDrugs.git
 [x]- añadimos mi contribución
 
 [x]- subimos los cambios
