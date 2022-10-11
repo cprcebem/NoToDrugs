@@ -11,3 +11,10 @@ let legal = true;
 let multa = [];
 
 let problem = [];
+
+let usos= ['Ansiedad generalizada',
+'Insomnio',
+'Fobias',
+'Trastornos afectivos' ,
+'Ciertas urgencias psiquiátricas, como la agitación psicomotriz, el estrés ambiental o los trastornos de la personalidad.',
+'Delirium tremens']
