@@ -1,0 +1,29 @@
+.contenedor{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+}
+
+#krokodil{
+
+    padding: 50px;
+    max-width: 400px;
+    max-height: 320px;
+}
+
+#efectos{
+    padding: 20px;
+}
+
+#clasificacion{
+    padding: 10px;
+}
+
+#titulo{
+    padding: 10px;
+}
+
+#legalidad{
+    padding: 10px;
+}
