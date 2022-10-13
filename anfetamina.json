@@ -1,0 +1,15 @@
+{
+    "title": "Anfetamina",
+    "description": "Provocan que la comunicación entre el cerebro y el cuerpo se acelere. Como resultado, se está más alerta y físicamente activo.  Algunas personas utilizan anfetaminas para mantenerse despiertas en el trabajo o para estudiar o rendir más en el deporte.",
+    "classification": "estimulante",
+    "legality": "Con receta médica",
+    "adverse effects": ["Disminución del apetito y pérdida de peso",
+    "Problemas cardíacos",
+    "Pérdida de memoria, dificultad para pensar claramente",
+    "Problemas emocionales y con el estado de ánimo",
+    "Alucinaciones continuas",
+    "Inquietud y temblores",
+    "Úlceras en la piel",
+    "Deterioro de los dientes",
+    "Muerte"]
+}
