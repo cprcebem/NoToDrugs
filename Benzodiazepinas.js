@@ -1,13 +1,14 @@
 // Para que lo puedas usar en tu index.html
-let title = 'Benzodiazepinas'
+let title = "Benzodiazepinas";
 
+let info =
+  "Tipo de medicamento que se usa para aliviar la ansiedad y el insomnio (dificultad para dormir). Las benzodiacepinas también se usan para relajar los músculos y prevenir crisis convulsivas. Aumentan el efecto de una sustancia química del cerebro llamada GABA, que es un neurotransmisor (sustancia que usan los nervios para enviarse mensajes entre sí). Esto hace que la actividad nerviosa se haga más lenta. Las benzodiacepinas son un tipo de depresor del SNC."
 
-let info = ''
+let type = "Psicotrópico";
 
-let type = ''
+let legal = true;
 
-let legal = true
+let multa = [];
 
-let multa = []
+let problem = [];
 
-let problem = []

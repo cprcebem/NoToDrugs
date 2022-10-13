@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>benzodiacepinas</title>
+    <style>
+      .array {
+        text-align: center;
+        padding-left: 25%;
+      }
+      p {
+        color: coral;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      Las benzodiacepinas son medicamentos que disminuyen la excitación neuronal
+      y que tienen un efecto antiepiléptico, ansiolítico, hipnótico y relajante
+      muscular. Se utilizan como tratamiento de: Ansiedad generalizada.
+      Insomnio. Fobias. Trastorno obsesivo compulsivo. Trastornos afectivos.
+      Esquizofrenia. Ciertas urgencias psiquiátricas, como la agitación
+      psicomotriz, el estrés ambiental o los trastornos de la personalidad.
+      Delirium tremens, para prevenir la agitación y las crisis convulsivas.
+    </p>
+    <div id="array">
+      <img
+        src="img/Benzodiazepine.svg.png"
+        alt="foto"
+        width="300px"
+        height="200px"
+      />
+    </div>
+    <div id="array">
+      <span id="usos"></span>
+
+      <script>
+        let usos = [
+          "Ansiedad generalizada",
+          "Insomnio",
+          "Fobias",
+          "Trastornos afectivos",
+          "Ciertas urgencias psiquiátricas, como la agitación psicomotriz, el estrés ambiental o los trastornos de la personalidad.",
+          "Delirium tremens",
+        ];
+        document.getElementById("usos").innerHTML = usos;
+      </script>
+    </div>
+  </body>
+</html>
