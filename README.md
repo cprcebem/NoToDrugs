@@ -5,7 +5,7 @@ Collaborative project for hacktoberfest
 
 # Contribute
 
-NoToDrugs no es nuestro
+NoToDrugs no es nuestro.
 [x]- fork del repo
     https://github.com/cprcebem/NoToDrugs
 [x]- clonamos mi fork
